@@ -1,3 +1,3 @@
 # Git course
 
-this is a test to lear how Git works
+this is a test to lear how Git works.
